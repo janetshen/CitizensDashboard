@@ -1,0 +1,7 @@
+{
+    "name": "citizens-dashboard",
+    "dependencies": {
+        "request": "latest",
+        "dotenv": "latest"
+    }
+}
